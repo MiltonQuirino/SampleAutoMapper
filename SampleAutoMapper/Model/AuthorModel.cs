@@ -24,6 +24,7 @@ namespace SampleAutoMapper.Model
         }
 
         public string Contact { get; set; }
+
         public AddressModel AddressModel
         {
             get; set;
