@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JG+lF1Pqd/f6mdEBpkzbnNBwmKUgGsiJSFha2PXdDPw8VRjLrpeahUJvy0Pyes8XaKcHk5y4INXWKw9iRiJiIA==",
+  "success": true,
+  "projectFilePath": "C:\\git\\lab\\SampleAutoMapper\\SampleAutoMapper\\SampleAutoMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\milto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
